@@ -1,0 +1,33 @@
+#menu-posts-frayd_edit_notes .menu-icon-post div.wp-menu-image:before {
+	content: "\f119";
+}
+
+.post-type-frayd_edit_notes #titlediv div.inside,
+.post-type-frayd_edit_notes #minor-publishing-actions,
+.post-type-frayd_edit_notes .wrap .add-new-h2 {
+	display: none;
+}
+
+.post-type-frayd_edit_notes .frayd_edit_notes_admin_view:before {
+	display: inline-block;
+	vertical-align: middle;
+
+	content: "\f310";
+	font: 20px/1 'dashicons';
+}
+
+.post-type-frayd_edit_notes .frayd_edit_notes_admin_priority {
+	border: 1px solid rgba(0, 0, 0, .1);
+	display: inline-block;
+	min-width: 3em;
+	padding: .25em .5em;
+
+	color: rgba(0, 0, 0, .25);
+	text-align: center;
+}
+.post-type-frayd_edit_notes .frayd_edit_notes_admin_priority:after {
+	content: attr(title);
+}
+.post-type-frayd_edit_notes .frayd_edit_notes_admin_priority.high { background-color: #faa; }
+.post-type-frayd_edit_notes .frayd_edit_notes_admin_priority.med { background-color: #ff9; }
+.post-type-frayd_edit_notes .frayd_edit_notes_admin_priority.low { background-color: #9f9; }
