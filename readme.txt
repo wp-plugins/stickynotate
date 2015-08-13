@@ -35,7 +35,7 @@ You can choose to let the public see your notes or only allow people signed in t
 
 = What's next for StickyNotate features? =
 
-More management and collaboration options, admin sorting by priority and assignment, and more! We're always open to suggestions so let us know what you think.
+Auto-save notes when changed, more management and collaboration options, admin sorting by priority and assignment, and more! We're always open to suggestions so let us know what you think.
 
 == Screenshots ==
 
