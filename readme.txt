@@ -12,7 +12,9 @@ Add sticky notes directly to website content.
 
 == Description ==
 
-Communicate and collaborate by leaving sticky notes on any page of your site. Drag 'n drop them anywhere you'd like, type a note, change it's color/priority, and even choose if the public can see them. Here's how it works:
+Communicate and collaborate by leaving sticky notes on any page of your site. Drag 'n drop them anywhere you'd like, type a note, change it's color/priority, and even choose whether or not the public can see them.
+
+Here's how it works:
 
 * While signed in, go to any page on your site
 * Click the **Add Note** button in the admin bar at the top of the screen
